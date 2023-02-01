@@ -2,8 +2,6 @@
 
 ![Screenshot](img/banner-milton-salgado.gif)
 
-<hr>
-
 ## 📋 Sobre mim
 
 * 👨🏻‍💻 Sou técnico em **Desenvolvimento de Sistemas** formado no **Colégio Pedro II**.
@@ -14,7 +12,7 @@
 * 📧 Contate-me no email: <a href="mailto:user@example.com">miltonsalgadoleandro@gmail.com</a>.
 * 😁 Pronomes: ele/dele
 
-<hr>
+<div align="center"><img src="img/avatar-milton-salgado.png" width="100"/></div>
 
 ## 🚀 Painel
 
@@ -25,8 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-salgado&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<hr>
 
 ## ⚙️ Tecnologias
 
@@ -55,17 +51,13 @@ Linguagens de Documentação que já utilizei para o desenvolvimento.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50"/>
 
-<hr>
-
 ## ✒️ Autor
 
-* **Milton Salgado** - *README* - [Github](https://github.com/milton-salgado)
-
-<hr>
+* **Milton Salgado** - *README* - [GitHub](https://github.com/milton-salgado)
 
 ## 🎁 Agradecimentos
 
-* 🖼️ Template: **Armstrong Lohãns** - *Um modelo para fazer um bom README.md* - [Github Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89);
+* 🖼️ Template: **Armstrong Lohãns** - *Um modelo para fazer um bom README.md* - [GitHub Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89);
 
 <hr>
 
