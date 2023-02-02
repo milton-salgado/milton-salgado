@@ -1,4 +1,4 @@
-# ⚡ Olá! Seja bem vindo(a) ao meu perfil do Github. Me chamo Milton Salgado. 
+# ⚡ Olá! Seja bem vindo(a) ao meu perfil do GitHub/GitLab. Me chamo Milton Salgado. 
 
 ![Screenshot](img/banner-milton-salgado.gif)
 
