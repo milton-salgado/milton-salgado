@@ -65,4 +65,4 @@ Linguagens de Documentação que já utilizei para o desenvolvimento.
 
 <hr>
 
-⚡ ***Milton Salgado - Estudante e Desenvolvedor***
+⚡ ***Milton Salgado - Estudante, Desenvolvedor e Apaixonado por Tecnologia***
