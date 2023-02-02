@@ -1,6 +1,6 @@
 # ⚡ Olá! Seja bem vindo(a) ao meu perfil do GitHub/GitLab. Me chamo Milton Salgado. 
 
-![Screenshot](./img/banner-milton-salgado.gif)
+![Screenshot](img/banner-milton-salgado.gif)
 
 <hr>
 
@@ -17,7 +17,7 @@
 * 💼 Perfil do LinkedIn: <a href="https://www.linkedin.com/in/milton-salgado-leandro/" target="_blank">milton-salgado-leandro</a>
 * 😁 Pronomes: ele/dele
 
-<div align="center"><img src="./img/avatar-milton-salgado.png" width="100"/></div>
+<div align="center"><img src="img/avatar-milton-salgado.png" width="100"/></div>
 
 ## 🚀 Painel
 
@@ -35,25 +35,25 @@
 
 Linguagens de Programação, Marcação e Estilização que já utilizei para o desenvolvimento.
 
-<img src="./img/html5-original.svg" width="50"/> &nbsp; <img src="./img/css3-original.svg" width="50"/> &nbsp; <img src="./img/javascript-original.svg" width="50"/> &nbsp; <img src="./img/php-original.svg" width="50"/> &nbsp; <img src="./img/c-original.svg" width="50"/> &nbsp; <img src="./img/cplusplus-original.svg" width="50"/> &nbsp; <img src="./img/csharp-original.svg" width="50"/>
+<img src="img/html5-original.svg" width="50"/> &nbsp; <img src="img/css3-original.svg" width="50"/> &nbsp; <img src="img/javascript-original.svg" width="50"/> &nbsp; <img src="img/php-original.svg" width="50"/> &nbsp; <img src="img/c-original.svg" width="50"/> &nbsp; <img src="img/cplusplus-original.svg" width="50"/> &nbsp; <img src="img/csharp-original.svg" width="50"/>
 
 ### 🛠️ Ferramentas e Plataformas de Desenvolvimento
 
 Ferramentas e Plataformas de Desenvolvimento que já utilizei para o desenvolvimento.
 
-<img src="./img/vscode-original.svg" width="50"/> &nbsp; <img src="./img/visualstudio-original.svg" width="50"/> &nbsp; <img src="./img/git-original.svg" width="50"/> &nbsp; <img src="./img/github-original.svg" width="50"/> &nbsp; <img src="./img/gitlab-original.svg" width="50"/> &nbsp; <img src="./img/figma-original.svg" width="50"/> &nbsp; <img src="./img/canva-original.svg" width="50"/>
+<img src="img/vscode-original.svg" width="50"/> &nbsp; <img src="img/visualstudio-original.svg" width="50"/> &nbsp; <img src="img/git-original.svg" width="50"/> &nbsp; <img src="img/github-original.svg" width="50"/> &nbsp; <img src="img/gitlab-original.svg" width="50"/> &nbsp; <img src="img/figma-original.svg" width="50"/> &nbsp; <img src="img/canva-original.svg" width="50"/>
 
 ### 🗃️ Sistemas de Gerenciamento de Banco de Dados e Servidores
 
 Sistemas de Gerenciamento de Banco de Dados e Servidores que já utilizei para o desenvolvimento.
 
-<img src="./img/mysql-original.svg" width="50"/> &nbsp; <img src="./img/microsoftsqlserver-plain.svg" width="50"/>
+<img src="img/mysql-original.svg" width="50"/> &nbsp; <img src="img/microsoftsqlserver-plain.svg" width="50"/>
 
 ### 📄 Linguagens de Documentação
 
 Linguagens de Documentação que já utilizei para o desenvolvimento.
 
-<img src="./img/markdown-original.svg" width="50"/> &nbsp; <img src="./img/latex-original.svg" width="50"/>
+<img src="img/markdown-original.svg" width="50"/> &nbsp; <img src="img/latex-original.svg" width="50"/>
 
 ## ✒️ Autor
 
