@@ -49,7 +49,7 @@ Ferramentas e Plataformas de Desenvolvimento que já utilizei para o desenvolvim
 
 Sistemas de Gerenciamento de Banco de Dados e Servidores que já utilizei para o desenvolvimento.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlservermicrosoftsqlserver-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
 
 ### 📝 Linguagens de Documentação
 
