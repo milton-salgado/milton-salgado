@@ -7,10 +7,10 @@
 ## 📋 Sobre mim
 
 * 👨🏻‍💻 Sou técnico em **Desenvolvimento de Sistemas** formado no **Colégio Pedro II**
-* 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (2/8)**
+* 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (3/8)**
 * 🌐 Sou aluno de **front-end** no **Vai na Web**, curso no qual estou aprendendo (e reaprendendo) a utilizar as principais tecnologias e ferramentas da área de desenvolvimento web
 * 🏬 Sou cientista júnior e extensionista na área de TI do projeto **Pontão da Eco**, na **Universidade Federal do Rio de Janeiro**
-* 💻 Estou estudando as seguintes tecnologias: **HTML, CSS, JavaScript, C e C++**
+* 💻 Estou estudando as seguintes tecnologias: **Java, JavaScript e React**
 * 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, Git, Github, Gitlens, Canva e Figma**
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
@@ -37,7 +37,14 @@
 Linguagens de Programação, Marcação e Estilização que já utilizei para o desenvolvimento.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+### 📚 Bibliotecas e Frameworks
+
+Bibliotecas e Frameworks que já utilizei para o desenvolvimento.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
 
 ### 🛠️ Ferramentas e Plataformas de Desenvolvimento
 
