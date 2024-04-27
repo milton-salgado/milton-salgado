@@ -9,9 +9,10 @@
 * 👨🏻‍💻 Sou técnico em **Desenvolvimento de Sistemas** formado no **Colégio Pedro II**
 * 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (4/8)**
 * 🌐 Fui aluno de **front-end** e hoje sou aluno **back-end** no **Vai na Web**, curso no qual estou aprendendo (e reaprendendo) a utilizar as principais tecnologias e ferramentas da área de desenvolvimento back-end
+* ✏️ Sou monitor na disciplina de **Programação de Computadores 1** no curso de **Ciência da Computação** da **Universidade Federal do Rio de Janeiro**
 * 🏬 Sou cientista júnior e extensionista na área de TI do projeto **Pontão da Eco**, na **Universidade Federal do Rio de Janeiro**
-* 💻 Estou estudando as seguintes tecnologias: **Java, Spring Boot, JavaScript e React**
-* 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, Git, Github, Gitlens, Canva e Figma**
+* 💻 Estou estudando as seguintes tecnologias: **Java, Spring Boot, JavaScript, TypeScript e React**
+* 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
 * 🦊 Perfil do GitLab: <a href="https://gitlab.com/milton-salgado" target="_blank">milton-salgado</a>
@@ -32,61 +33,56 @@
 
 ## 🖥️ Tecnologias
 
-### 💻 Linguagens de Programação, Marcação e Estilização
+### 🌐 Linguagens para Desenvolvimento Web
 
-Linguagens de Programação, Marcação e Estilização que já utilizei para o desenvolvimento.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+### 🧮 Linguagens para Lógica de Programação e Programação Estruturada
 
-### 📚 Bibliotecas e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
-Bibliotecas e Frameworks que já utilizei para o desenvolvimento.
+### 📦 Linguagens para Programação Orientada a Objetos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50"/>
+[![My Skills](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
+
+### 📝 Linguagens para Documentação
+
+[![My Skills](https://skillicons.dev/icons?i=markdown,latex)](https://skillicons.dev)
+
+### 📚 Bibliotecas e FrameWorks
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,spring)](https://skillicons.dev)
+
+### 🏷️ Ferramentas para Versionamento de Código
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 
-### 🛠️ Ferramentas e Plataformas de Desenvolvimento
+### 🔨 IDEs e Editores de Código da JetBrains
 
-Ferramentas e Plataformas de Desenvolvimento que já utilizei para o desenvolvimento.
+[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,idea,webstorm,phpstorm)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
+### 🔧 IDEs e Editores de Código da Microsoft
 
-### 🗃️ Sistemas de Gerenciamento de Banco de Dados e Servidores
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
-Sistemas de Gerenciamento de Banco de Dados e Servidores que já utilizei para o desenvolvimento.
+### 🗃️ Sistemas de Gerenciamento de Banco de Dados
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlserver)](https://skillicons.dev)
 
-### 📝 Linguagens de Documentação
+### 🛠️ Sistemas Operacionais
 
-Linguagens de Documentação que já utilizei para o desenvolvimento.
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50"/>
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
 ## ✒️ Autores
 
-* **Milton Salgado** - *README* - [milton-salgado](https://github.com/milton-salgado)
+* **Milton Salgado** - *Todo o Projeto* - [milton-salgado](https://github.com/milton-salgado)
 
 ## 🎁 Agradecimentos
 
 * 🖼️ Template: **Armstrong Lohãns** - *Um modelo para fazer um bom README.md* - [GitHub Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89);
+
+* 🎨 Skill Icons: **Thijs** - *Showcase your skills on your GitHub or resumé with ease!* - [GitHub Repository](https://github.com/tandpfun/skill-icons);
 
 <hr>
 
