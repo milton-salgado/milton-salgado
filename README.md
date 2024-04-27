@@ -74,6 +74,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
+## 📨 Contato
+
+<a href="mailto:miltonsalgadoleandro@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/milton-salgado-leandro/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/milton-salgado" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://gitlab.com/milton-salgado" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+
 ## ✒️ Autores
 
 * **Milton Salgado** - *Todo o Projeto* - [milton-salgado](https://github.com/milton-salgado)
