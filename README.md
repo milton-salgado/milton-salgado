@@ -7,11 +7,12 @@
 ## 📋 Sobre mim
 
 * 👨🏻‍💻 Sou técnico em **Desenvolvimento de Sistemas** formado no **Colégio Pedro II**
-* 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (4/8)**
-* 🌐 Fui aluno de **front-end** e hoje sou aluno **back-end** no **Vai na Web**, curso no qual estou aprendendo (e reaprendendo) a utilizar as principais tecnologias e ferramentas da área de desenvolvimento back-end
+* 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (5/8)**
+* 🌐 Fui aluno de **front-end** e de **back-end** no **Vai na Web**, cursos que me ajudaram a evoluir e aprimorar todas as minhas habilidades nas tecnologias conhecidas.
 * ✏️ Sou monitor na disciplina de **Programação de Computadores 1** no curso de **Ciência da Computação** da **Universidade Federal do Rio de Janeiro**
 * 🏬 Sou cientista júnior e extensionista na área de TI do projeto **Pontão da Eco**, na **Universidade Federal do Rio de Janeiro**
-* 💻 Estou estudando as seguintes tecnologias: **Java, Spring Boot, JavaScript, TypeScript e React**
+* ⚙️ Estou desenvolvendo projetos pela universidade. Novidades em breve.
+* 💻 Estou estudando as seguintes tecnologias: **TypeScript, React TS e Python**
 * 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
