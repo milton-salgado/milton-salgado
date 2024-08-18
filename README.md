@@ -12,7 +12,7 @@
 * ✏️ Sou monitor na disciplina de **Programação de Computadores 1** no curso de **Ciência da Computação** da **Universidade Federal do Rio de Janeiro**
 * 🏬 Sou cientista júnior e extensionista na área de TI do projeto **Pontão da Eco**, na **Universidade Federal do Rio de Janeiro**
 * ⚙️ Estou desenvolvendo projetos pela universidade. Novidades em breve.
-* 💻 Estou estudando as seguintes tecnologias: **TypeScript, React TS e Python**
+* 💻 Estou estudando as seguintes tecnologias: **TypeScript, React TypeScript, React Native, Python**
 * 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
@@ -38,9 +38,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)
 
-### 🧮 Linguagens para Lógica de Programação e Programação Estruturada
+### 🧮 Linguagens para Lógica de Programação, Programação Estruturada e Modelagem de Problemas
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,julia)](https://skillicons.dev)
 
 ### 📦 Linguagens para Programação Orientada a Objetos
 
