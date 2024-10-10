@@ -38,7 +38,7 @@
 
 ### 🌐 Linguagens para Desenvolvimento Web
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php)](https://skillicons.dev)
 
 ### 🧮 Linguagens para Lógica de Programação, Programação Estruturada e Modelagem de Problemas
 
@@ -54,7 +54,7 @@
 
 ### 📚 Bibliotecas e FrameWorks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,styledcomponents,spring)](https://skillicons.dev)
 
 ### 🏷️ Ferramentas para Versionamento de Código
 
