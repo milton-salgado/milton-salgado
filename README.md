@@ -8,11 +8,13 @@
 
 * 👨🏻‍💻 Sou técnico em **Desenvolvimento de Sistemas** formado no **Colégio Pedro II**
 * 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (5/8)**
-* 🌐 Fui aluno de **front-end** e de **back-end** no **Vai na Web**, cursos que me ajudaram a evoluir e aprimorar todas as minhas habilidades nas tecnologias conhecidas.
-* ✏️ Sou monitor na disciplina de **Programação de Computadores 1** no curso de **Ciência da Computação** da **Universidade Federal do Rio de Janeiro**
-* 🏬 Sou cientista júnior e extensionista na área de TI do projeto **Pontão da Eco**, na **Universidade Federal do Rio de Janeiro**
-* ⚙️ Estou desenvolvendo projetos pela universidade. Novidades em breve.
-* 💻 Estou estudando as seguintes tecnologias: **TypeScript, React TypeScript, React Native, Python**
+* 🌐 Fui aluno de **front-end** e de **back-end** no **Vai na Web**, cursos que me ajudaram a evoluir e aprimorar todas as minhas habilidades nas tecnologias conhecidas
+* 🌐 Sou aluno do curso de **desenvolvimento full-stack** no **Vai na Web**, consolidando tudo que aprendi nos outros cursos e aprendendo muito mais
+* ✏️ Fui monitor da disciplina de **Programação de Computadores 1**, no período de **2024.1**
+* 🧑🏻‍🏫 Sou monitor da disciplina de **Programação Orientada a Objetos**, no período de **2024.2**
+* 🖱️ Fui bolsista de iniciação científica e extensionista em tecnologia de informação no **Pontão de Cultura Digital, na Escola de Comuniação**
+* 🏬 Sou bolsista de iniciação científica em desenvolvimento de interface de software no  **LASME - Laboratório de Simulação e Métodos em Engenharia**
+* 💻 Estou trabalhando e estudando com as seguintes tecnologias: **SASS, TypeScript, React TypeScript, React Native, C#, .NET, Java, SpringBoot**
 * 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
