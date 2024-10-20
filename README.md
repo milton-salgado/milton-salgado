@@ -14,8 +14,9 @@
 * 🧑🏻‍🏫 Sou monitor da disciplina de **Programação Orientada a Objetos**, no período de **2024.2**
 * 🖱️ Fui bolsista de iniciação científica e extensionista em tecnologia de informação no **Pontão de Cultura Digital, na Escola de Comuniação**
 * 🏬 Sou bolsista de iniciação científica em desenvolvimento de interface de software no  **LASME - Laboratório de Simulação e Métodos em Engenharia**
-* 💻 Estou trabalhando e estudando com as seguintes tecnologias: **SASS, TypeScript, React TypeScript, React Native, C#, .NET, Java, SpringBoot**
-* 🖥️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
+* 💻 Hoje, trabalho com as seguintes tecnologias: **JavaScript, React JavaScript, TypeScript, React TypeScript, React Native, C#, .NET, Java, SpringBoot**
+* 📚 Também estou aprendendo e aperfeiçoando meus conhecimentos nas seguintes tecnologias: **SASS, Bootstrap, Tailwind CSS, Java, ReactTypeScript**
+* 🛠️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
 * 🦊 Perfil do GitLab: <a href="https://gitlab.com/milton-salgado" target="_blank">milton-salgado</a>
@@ -54,7 +55,7 @@
 
 ### 📚 Bibliotecas e FrameWorks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,styledcomponents,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,nodejs,react,styledcomponents,spring)](https://skillicons.dev)
 
 ### 🏷️ Ferramentas para Versionamento de Código
 
