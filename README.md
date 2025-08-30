@@ -12,13 +12,14 @@
 * 🌐 Fui aluno do curso de **desenvolvimento full-stack** no **Vai na Web**, onde consolidei tudo que aprendi nos outros cursos e apliquei em projetos práticos.
 * ✏️ Fui monitor da disciplina de **Programação de Computadores 1**, no período de **2024.1**
 * 🧑🏻‍🏫 Fui monitor da disciplina de **Programação Orientada a Objetos**, no período de **2024.2**
+* 🛠️ Estou trabalhando como monitor no **Laboratório de Informática para Graduação do Instituto de Matemática (LIG - IM) na Universidade Federal do Rio de Janeiro (UFRJ)**.
 * 🖱️ Fui bolsista de iniciação científica e extensionista em tecnologia de informação no **Pontão de Cultura Digital, na Escola de Comunicação**, por 1 ano e 8 meses.
 * 🌡️ Trabalhei como bolsista de iniciação científica no desenvolvimento uma interface de software para uma plataforma de simulação no **LASME - Laboratório de Simulação e Métodos em Engenharia**.
 * 🧠 Estou trabalhando como bolsista de iniciação científica no desenvolvimento de uma interface web para LLM's no **LAMDEC - Laboratório de Métodos de Suporte à Tomada de Decisão**.
 * 📲 Estou trabalhando como freelance em desenvolvimento web de dois sistemas (desktop e mobile) da **SEALS Solutions**.
-* 💻 Hoje, trabalho com as seguintes tecnologias: **JavaScript, React JavaScript, TypeScript, React TypeScript, Next JS, React Native, C#, .NET, Java, SpringBoot**
-* 📚 Também estou aprendendo e aperfeiçoando meus conhecimentos nas seguintes tecnologias: **SASS, Bootstrap, Tailwind CSS, Java, React TypeScript**
-* 🛠️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
+* 💻 Hoje, trabalho com as seguintes tecnologias: **JavaScript, React JavaScript, TypeScript, React TypeScript, Next JS, React Native, C#, .NET, Java, SpringBoot**.
+* 📚 Também estou aprendendo e aperfeiçoando meus conhecimentos nas seguintes tecnologias: **SASS, Bootstrap, Tailwind CSS, Java, React TypeScript**.
+* 🛠️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**.
 * 📧 Contate-me no email: <a href="mailto:miltonsalgadoleandro@gmail.com">miltonsalgadoleandro@gmail.com</a>
 * 😺 Perfil do GitHub: <a href="https://github.com/milton-salgado" target="_blank">milton-salgado</a>
 * 🦊 Perfil do GitLab: <a href="https://gitlab.com/milton-salgado" target="_blank">milton-salgado</a>
