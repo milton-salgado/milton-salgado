@@ -8,14 +8,14 @@
 
 * 👨🏻‍💻 Sou técnico em **Desenvolvimento de Sistemas** formado no **Colégio Pedro II**
 * 🎓 Cursei **Sistemas de Informação** na **Universidade Federal do Estado do Rio de Janeiro (1/8)** e atualmente estou cursando **Ciência da Computação** na **Universidade Federal do Rio de Janeiro (7/10)**
-* 🌐 Fui aluno de **front-end** e de **back-end** no **Vai na Web**, cursos que me ajudaram a evoluir e aprimorar todas as minhas habilidades nas tecnologias conhecidas
-* 🌐 Sou aluno do curso de **desenvolvimento full-stack** no **Vai na Web**, consolidando tudo que aprendi nos outros cursos e aprendendo muito mais
+* 🌐 Fui aluno de **front-end** e de **back-end** no **Vai na Web**, cursos que me ajudaram a evoluir e aprimorar todas as minhas habilidades nas tecnologias conhecidas.
+* 🌐 Fui aluno do curso de **desenvolvimento full-stack** no **Vai na Web**, onde consolidei tudo que aprendi nos outros cursos e apliquei em projetos práticos.
 * ✏️ Fui monitor da disciplina de **Programação de Computadores 1**, no período de **2024.1**
 * 🧑🏻‍🏫 Fui monitor da disciplina de **Programação Orientada a Objetos**, no período de **2024.2**
 * 🖱️ Fui bolsista de iniciação científica e extensionista em tecnologia de informação no **Pontão de Cultura Digital, na Escola de Comunicação**, por 1 ano e 8 meses.
-* 🌡️ Trabalhei como bolsista de iniciação científica no desenvolvimento uma interface de software para uma plataforma de simulação no **LASME - Laboratório de Simulação e Métodos em Engenharia**
-* 🧠 Estou trabalhando como bolsista de iniciação científica no desenvolvimento de uma interface web para LLM's no **LAMDEC - Laboratório de Métodos de Suporte à Tomada de Decisão**
-* 📲 Estou trabalhando como freelance em desenvolvimento web de dois sistemas (desktop e mobile) da SEALS Solutions.
+* 🌡️ Trabalhei como bolsista de iniciação científica no desenvolvimento uma interface de software para uma plataforma de simulação no **LASME - Laboratório de Simulação e Métodos em Engenharia**.
+* 🧠 Estou trabalhando como bolsista de iniciação científica no desenvolvimento de uma interface web para LLM's no **LAMDEC - Laboratório de Métodos de Suporte à Tomada de Decisão**.
+* 📲 Estou trabalhando como freelance em desenvolvimento web de dois sistemas (desktop e mobile) da **SEALS Solutions**.
 * 💻 Hoje, trabalho com as seguintes tecnologias: **JavaScript, React JavaScript, TypeScript, React TypeScript, Next JS, React Native, C#, .NET, Java, SpringBoot**
 * 📚 Também estou aprendendo e aperfeiçoando meus conhecimentos nas seguintes tecnologias: **SASS, Bootstrap, Tailwind CSS, Java, React TypeScript**
 * 🛠️ Estou utilizando as seguintes tecnologias para auxiliar no meu aprendizado: **Visual Studio Code, IntelliJ IDEA, Git, Github, Gitlens, Canva e Figma**
